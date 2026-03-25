@@ -1,0 +1,5 @@
+{
+  "name": "VLS TV: ¿Quién quiere estar informado? - Edición Regional 2026",
+  "description": "Un viaje épico por la historia, cultura y misterios de La Serena y la Región de Coquimbo. Edición definitiva con 32 niveles, anfitrión virtual y modo broadcast.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
